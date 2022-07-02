@@ -32,7 +32,7 @@ class ParameterSum():
 
 #-----------------------------------------------------------------------------------------------------------------
 if __name__ == "__main__":
-    sizeArray = 6#1000000 #Tamanho do array
+    sizeArray = 1000000 #Tamanho do array
     arrayA = empty(([sizeArray]))
     for i in range(len(arrayA)):
         arrayA[i] = i
