@@ -41,5 +41,4 @@ if __name__ == "__main__":
     for i in range(len(arrayA)):
         sum = sum + arrayA[i]
     end_time = time.time()
-    print(arrayA)
     print(f'A soma dos elementos do array é: {sum}\nO tempo de processamento foi: {end_time-start_time}')
