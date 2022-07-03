@@ -1,4 +1,4 @@
-# Objetivo: Comparar o tempo de processamento de um código sequencial e um código processamento paralelo
+# Objetivo: Comparar o tempo de processamento de um código sequencial e um código com processamento paralelo
 # 
 # Fluxo do código: Será construído um array com 1000000 elementos e será feita a soma de todos os elementos
 # do array através de processamento sequencial e processamento paralelo.
